@@ -4,7 +4,15 @@ OCI and GCP tutorial
 **Recording** 
 ## Prereqs
 -Google Cloud Platform (GCP)
+
 -Oracle Cloud Infrastructure (OCI)
-- Smallest free/tier shapes and images
+
+-Smallest free/tier shapes and images
+
 # Google cloud (GCP)
-## Step 1:
+## Step 1: Create VM
+-Go to Console → Compute Engine → Create instance
+
+Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
+
+
