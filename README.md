@@ -13,6 +13,11 @@ OCI and GCP tutorial
 ## Step 1: Create VM
 -Go to Console → Compute Engine → Create instance
 
-Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
+-Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
 
+-Region & Zone: Choose a location closest to you
 
+-Under general purpose > Choose E2 series 
+
+- Machine type: chose (e2-micro) with the lowest GM
+     -Example> e2-micro (2 vCPU, 1 core, 1 GB memory)
