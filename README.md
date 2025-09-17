@@ -49,6 +49,21 @@ OCI and GCP tutorial
 
 - To update your physical machine in SSH type:
    **Sudo** (SPACE)**apt-get**(SPACE)**Update** > **enter**
+- Once this is loaded, you will type in:
+   **python 3** > **enter**
+  
+   **exit()** > **enter**
+
+  **pwd** > **enter**
+
+  ## Stop/Terminate VM
+
+- Click on the 3 dots
+- Click **Delete**
+- We do not care about a graceful shutdown, click **Delete**
+
+  
+  
   
    
 
