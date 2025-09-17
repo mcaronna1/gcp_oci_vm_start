@@ -99,7 +99,25 @@ OCI and GCP tutorial
 Click> Actions again> Terminate
 
   - Make sure it indicates terminate so your VM isnt running
+    
 **Oracle Cloud Terminate** <img width="1351" height="636" alt="Oracle Terminate" src="https://github.com/user-attachments/assets/60ee9fb1-b8ab-4892-9396-1d5cbeba897c" />
+
+#Similarities:
+
+-Both have a public clour platform
+
+-Provide free tier  tool
+
+#Differences:
+
+-GCP is transparent with its pricing
+
+-Orical keeps your termintaion visable in dashboard
+
+#Preferences:
+
+-GCP seem to be user friendly and easier to navigate as for Oracle it seemed like it would be something difficult for a first time user.
+
 
 
 
