@@ -61,6 +61,14 @@ OCI and GCP tutorial
 - Click on the 3 dots
 - Click **Delete**
 - We do not care about a graceful shutdown, click **Delete**
+    -Remember to make sure VM is deleted as this can cost you money if left running
+
+**GCP Terminated Image** <img width="1316" height="639" alt="GCP-terminate" src="https://github.com/user-attachments/assets/26399706-92d4-4e62-bf47-532056922cd5" />
+
+
+
+
+
 
   
   
