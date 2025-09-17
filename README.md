@@ -10,7 +10,7 @@ OCI and GCP tutorial
 -Smallest free/tier shapes and images
 
 # Google cloud (GCP)
-## Step 1: Create VM
+# Step 1: Create VM
 -Go to Console → Compute Engine → Create instance
 
 **GCP CREATE FORM**
