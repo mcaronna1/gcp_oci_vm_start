@@ -19,5 +19,9 @@ OCI and GCP tutorial
 
 -Under general purpose > Choose E2 series 
 
-- Machine type: chose (e2-micro) with the lowest GM
+- Machine type: choose (e2-micro) with the lowest GM
      -Example> e2-micro (2 vCPU, 1 core, 1 GB memory)
+
+- Click on OS and Storage on the left hand side
+    - Click > Change > to **Ubuntu**
+-Click **Create**
