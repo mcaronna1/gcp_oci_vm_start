@@ -45,5 +45,10 @@ OCI and GCP tutorial
 
 -Click > SSH to the right under connect to open a terminal in the browser
 
-  - SSH terminal
+  - SSH terminal is a place you can configure your server just like you would on a physical machine
+
+- To update your physical machine in SSH type:
+   **Sudo** (SPACE)**apt-get**(SPACE)**Update** > **enter**
+  
+   
 
