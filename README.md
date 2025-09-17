@@ -26,19 +26,24 @@ OCI and GCP tutorial
 
 -Machine type: choose (e2-micro) with the lowest GM
   
-     -Example> e2-micro (2 vCPU, 1 core, 1 GB memory)
+     -Example> e2-micro (2 vCPU,1 core, 1 GB memory)
 
--Click on OS and Storage on the left hand side
+-Click > OS and Storage on the left hand side
   
 -Click > Change > to **Ubuntu**
   
--Click **Create**
+-Click > **Create**
 
-# Step 2: Running Instance
+## Step 2: Running Instance
 
 - Once **Create** has been chosen you will wait for status to be **Running**
 
 ** GCP RUNNING INSTANCE IMAGE**
 <img width="1067" height="656" alt="GCP-running instance" src="https://github.com/user-attachments/assets/b6d263cb-d363-4c2e-a8bc-1194d0f20445" />
 
+## Step 3: SSH Update
+
+-Click > SSH to the right under connect to open a terminal in the browser
+
+  - SSH terminal
 
