@@ -20,7 +20,9 @@ OCI and GCP tutorial
 
 -Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
 
--Region & Zone: Choose a location closest to you
+-Region: Choose a location closest to you
+
+-Zone: leave as ANY
 
 -Under general purpose > Choose E2 series 
 
@@ -28,7 +30,7 @@ OCI and GCP tutorial
   
      -Example> e2-micro (2 vCPU,1 core, 1 GB memory)
 
--Click > OS and Storage on the left hand side
+-Click > OS and Storage (left side)
   
 -Click > Change > to **Ubuntu**
   
@@ -48,7 +50,7 @@ OCI and GCP tutorial
   - SSH terminal is a place you can configure your server just like you would on a physical machine
 
 - To update your physical machine in SSH type:
-   **Sudo** (SPACE)**apt-get**(SPACE)**Update** > **enter**
+   **Sudo**(SPACE)**apt-get**(SPACE)**Update** > **enter**
 - Once this is loaded, you will type in:
    **python 3** > **enter**
   
@@ -58,7 +60,7 @@ OCI and GCP tutorial
 
   ## Stop/Terminate VM
 
-- Click on the 3 dots
+- Click on the 3 dots Click drop down
 - Click **Delete**
 - We do not care about a graceful shutdown, click **Delete**
     -Remember to make sure VM is deleted as this can cost you money if left running
