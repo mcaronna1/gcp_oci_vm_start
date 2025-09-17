@@ -75,6 +75,9 @@ OCI and GCP tutorial
 
 - Create a name for your VM
     - Example (all lowercase) ahi-lab
+      
+  **Oracle cloud Create forum** <img width="1389" height="614" alt="Oracle -Create form" src="https://github.com/user-attachments/assets/9fddc293-55d7-40d7-a362-0673b55c5d09" />
+
 
 - Select Image and choose **Ubuntu**
 
@@ -85,7 +88,22 @@ OCI and GCP tutorial
 
     - Click **Create**
 
-  **Oracle Cloud** <img width="1389" height="614" alt="Oracle -Create form" src="https://github.com/user-attachments/assets/9d2a7bea-8cfe-446c-b63d-5c8431c1d036" />
+##Step 2- Running Instance ( wait until it changes from provisoning>running
+
+**Oracle Cloud Running Instance** <img width="1362" height="609" alt="Oracle - Running instance" src="https://github.com/user-attachments/assets/4ca62e79-16f5-4f81-b568-605e761202d9" />
+
+##Step 3: Stop/ Terminate VM
+
+-Go to the right Click > Actions > Stop
+
+Click> Actions again> Terminate
+
+  - Make sure it indicates terminate so your VM isnt running
+**Oracle Cloud Terminate** <img width="1351" height="636" alt="Oracle Terminate" src="https://github.com/user-attachments/assets/60ee9fb1-b8ab-4892-9396-1d5cbeba897c" />
+
+
+
+
 
 
 
