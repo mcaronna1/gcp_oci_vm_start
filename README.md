@@ -65,6 +65,29 @@ OCI and GCP tutorial
 
 **GCP Terminated Image** <img width="1316" height="639" alt="GCP-terminate" src="https://github.com/user-attachments/assets/26399706-92d4-4e62-bf47-532056922cd5" />
 
+**PART 2: Oracle Cloud Infrastructure (OCI)**
+
+## Step 1: Create a VM
+
+- Go to **Compute** > **Instances** > **Create Instance**
+
+- Click> Configure the VM
+
+- Create a name for your VM
+    - Example (all lowercase) ahi-lab
+
+- Select Image and choose **Ubuntu**
+
+- if not automactically set>Select shape and change to **Ampere** and select **A1. flex**
+
+- Under **Networking** click create new virtual cloud network and it automatically chooses create new public subnet
+    - SSH Keys is optional, leave as default and it will generate a key pair
+
+    - Click **Create**
+
+  **Oracle Cloud** <img width="1389" height="614" alt="Oracle -Create form" src="https://github.com/user-attachments/assets/9d2a7bea-8cfe-446c-b63d-5c8431c1d036" />
+
+
 
 
 
