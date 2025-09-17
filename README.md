@@ -90,7 +90,7 @@ OCI and GCP tutorial
 
     - Click **Create**
 
-##Step 2- Running Instance - wait until it changes from provisoning>running
+## Step 2- Running Instance - wait until it changes from provisoning>running
 
 **Oracle Cloud Running Instance** <img width="1362" height="609" alt="Oracle - Running instance" src="https://github.com/user-attachments/assets/4ca62e79-16f5-4f81-b568-605e761202d9" />
 
