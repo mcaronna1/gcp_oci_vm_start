@@ -93,7 +93,8 @@ Once **Create** has been chosen you will wait for status to be **Running**
 
     - Click **Create**
 
-## Step 2- Running Instance - wait until it changes from provisoning>running
+## Step 2- Running Instance: 
+  Wait until it changes from provisoning>running
 
 **ORACLE RUNNING:** 
 [OCI Running](images/oracle_running.png)
@@ -124,8 +125,7 @@ Click> Actions again> Terminate
 
 # Preferences:
 
--GCP seem to be user friendly and easier to navigate as for Oracle it seemed like it would be something difficult for a first time user.
-
+-GCP appears to be more user-friendly and easier to navigate, especially for first-time users, whereas Oracle Cloud may have a steeper learning curve for beginners
 
 
 
