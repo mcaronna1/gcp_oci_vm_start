@@ -3,6 +3,7 @@ OCI and GCP tutorial
 # Virtual Machine Tutorial: GCP and OCI
 
 ## Video ##
+
 **Recording:**[Watch on Loom](https://www.loom.com/share/5c0ea785d3834672baa073e21ebb96ce?sid=000deb8e-0077-4a77-b2b2-bf911590b54e)
 
 ## Prereqs
@@ -30,7 +31,7 @@ OCI and GCP tutorial
 
 -Machine type: choose (e2-micro) with the lowest GM
   
-     -Example> e2-micro (2 vCPU,1 core, 1 GB memory)
+     -Example: e2-micro (2 vCPU,1 core, 1 GB memory)
 
 -Click > OS and Storage (left side)
   
@@ -50,14 +51,14 @@ OCI and GCP tutorial
 
 -Click > SSH to the right under connect to open a terminal in the browser
 
-  - SSH terminal is a place you can configure your server just like you would on a physical machine
+-SSH terminal is a place you can configure your server just like you would on a physical machine
 
 - To update your physical machine in SSH type:
    **Sudo**(SPACE)**apt-get**(SPACE)**Update** > **enter**
 - Once this is loaded, you will type in:
-   **python 3** > **enter**
+  **python 3** > **enter**
   
-   **exit()** > **enter**
+  **exit()** > **enter**
 
   **pwd** > **enter**
 
