@@ -112,15 +112,15 @@ Click> Actions again> Terminate
 
 # Similarities:
 
--Both have a public clour platform
+-Both have a public cloud platform that offer a wide range of cloud services
 
--Provide free tier  tool
+-Each platform provides a free tier that allows users to access a limited set of services at no cost.
 
 # Differences:
 
--GCP is transparent with its pricing
+-GCP offers clear and detailed pricing information with a user-friendly pricing calculator, making it easy for customers to estimate costs.
 
--Orical keeps your termintaion visable in dashboard
+-Oracle Cloud (OCI) does show logs of resource activity, including terminated instances
 
 # Preferences:
 
