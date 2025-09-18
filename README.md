@@ -1,7 +1,10 @@
 # gcp_oci_vm_start
 OCI and GCP tutorial
 # Virtual Machine Tutorial: GCP and OCI
-**Recording** 
+
+## Video ##
+[(https://www.loom.com/share/5c0ea785d3834672baa073e21ebb96ce?sid=c006382f-fe4b-4274-93b0-af9cffc8016c)
+
 ## Prereqs
 -Google Cloud Platform (GCP)
 
