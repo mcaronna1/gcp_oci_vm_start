@@ -108,7 +108,7 @@ Click> Actions again> Terminate
   - Make sure it indicates terminate so your VM isnt running
     
 **ORACLE TERMINATE:** 
-[OCI Terminate](images/oracl_terminate.png)
+[OCI Terminate](images/oracle_terminate.png)
 
 
 # Similarities:
