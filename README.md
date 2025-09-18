@@ -121,7 +121,7 @@ Click> Actions again> Terminate
 
 -GCP offers clear and detailed pricing information with a user-friendly pricing calculator, making it easy for customers to estimate costs.
 
--Oracle Cloud (OCI) does show logs of resource activity, including terminated instances
+-Oracle Cloud does show logs of resource activity, including terminated instances
 
 # Preferences:
 
