@@ -18,8 +18,7 @@ OCI and GCP tutorial
 
 **GCP CREATE**
 
-<img width="1068" height="725" alt="GCP- create form" src="https://github.com/user-attachments/assets/88282f21-e3f9-46dc-91bf-52c9ce8156dd" />
-
+[GCP Create](images/gcp_create.png) 
 
 -Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
 
