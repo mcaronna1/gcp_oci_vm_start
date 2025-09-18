@@ -16,7 +16,7 @@ OCI and GCP tutorial
 # Step 1: Create VM
 -Go to Console → Compute Engine → Create instance
 
-**GCP CREATE FORM**
+**GCP CREATE**
 
 <img width="1068" height="725" alt="GCP- create form" src="https://github.com/user-attachments/assets/88282f21-e3f9-46dc-91bf-52c9ce8156dd" />
 
