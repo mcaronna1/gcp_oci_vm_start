@@ -17,8 +17,7 @@ OCI and GCP tutorial
 # Step 1: Create VM
 -Go to Console → Compute Engine → Create instance
 
-**GCP CREATE**
-
+**GCP CREATE IMAGE:**
 [GCP Create](images/gcp_create.png)
 
 -Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
@@ -30,8 +29,6 @@ OCI and GCP tutorial
 -Under general purpose > Choose E2 series 
 
 -Machine type: choose (e2-micro) with the lowest GM
-  
-     -Example: e2-micro (2 vCPU,1 core, 1 GB memory)
 
 -Click > OS and Storage (left side)
   
@@ -43,7 +40,7 @@ OCI and GCP tutorial
 
 - Once **Create** has been chosen you will wait for status to be **Running**
 
-** GCP RUNNING INSTANCE IMAGE**
+**GCP RUNNING INSTANCE IMAGE:**
 [GCP running](images/gcp_running.png)
 
 
@@ -69,7 +66,7 @@ OCI and GCP tutorial
 - We do not care about a graceful shutdown, click **Delete**
     -Remember to make sure VM is deleted as this can cost you money if left running
 
-**GCP Terminated Image** 
+**GCP TERMINATE IMAGE:** 
 [GCP terminate](images/gcp_terminate.png)
 
 **PART 2: Oracle Cloud Infrastructure (OCI)**
@@ -83,7 +80,7 @@ OCI and GCP tutorial
 - Create a name for your VM
     - Example (all lowercase) ahi-lab
       
-  **Oracle cloud Create forum**
+  **ORACLE CREATE:**
   [OCI Create](images/oracle_create.png)
 
 - Select Image and choose **Ubuntu**
@@ -97,7 +94,7 @@ OCI and GCP tutorial
 
 ## Step 2- Running Instance - wait until it changes from provisoning>running
 
-**Oracle Cloud Running Instance** 
+**ORACLE RUNNING:** 
 [OCI Running](images/oracle_running.png)
 
 ## Step 3: Stop/ Terminate VM
@@ -108,7 +105,7 @@ Click> Actions again> Terminate
 
   - Make sure it indicates terminate so your VM isnt running
     
-**Oracle Cloud Terminate** 
+**ORACLE TERMINATE:** 
 [OCI Terminate](images/oracl_terminate.png)
 
 
