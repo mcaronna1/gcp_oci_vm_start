@@ -82,8 +82,8 @@ OCI and GCP tutorial
 - Create a name for your VM
     - Example (all lowercase) ahi-lab
       
-  **Oracle cloud Create forum** <img width="1389" height="614" alt="Oracle -Create form" src="https://github.com/user-attachments/assets/9fddc293-55d7-40d7-a362-0673b55c5d09" />
-
+  **Oracle cloud Create forum**
+  [oci Create](images/oracle_create.png)
 
 - Select Image and choose **Ubuntu**
 
