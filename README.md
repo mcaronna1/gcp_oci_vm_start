@@ -18,7 +18,7 @@ OCI and GCP tutorial
 
 **GCP CREATE**
 
-[GCP Create](images/gcp_create.png) 
+[GCP Create](images/gcp_create.png)
 
 -Under Machine configuration you will fill in VM project will be > Example all lowercase> ahi-test
 
