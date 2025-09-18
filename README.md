@@ -81,7 +81,7 @@ Once **Create** has been chosen you will wait for status to be **Running**
 - Create a name for your VM
     - Example (all lowercase) ahi-lab
       
-  **ORACLE CREATE:**
+**ORACLE CREATE:**
   [OCI Create](images/oracle_create.png)
 
 - Select Image and choose **Ubuntu**
