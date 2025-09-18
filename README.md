@@ -83,7 +83,7 @@ OCI and GCP tutorial
     - Example (all lowercase) ahi-lab
       
   **Oracle cloud Create forum**
-  [oci Create](images/oracle_create.png)
+  [OCI Create](images/oracle_create.png)
 
 - Select Image and choose **Ubuntu**
 
@@ -96,7 +96,8 @@ OCI and GCP tutorial
 
 ## Step 2- Running Instance - wait until it changes from provisoning>running
 
-**Oracle Cloud Running Instance** <img width="1362" height="609" alt="Oracle - Running instance" src="https://github.com/user-attachments/assets/4ca62e79-16f5-4f81-b568-605e761202d9" />
+**Oracle Cloud Running Instance** 
+[OCI Create](images/oracle_running.png)
 
 ## Step 3: Stop/ Terminate VM
 
