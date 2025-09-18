@@ -43,7 +43,8 @@ OCI and GCP tutorial
 - Once **Create** has been chosen you will wait for status to be **Running**
 
 ** GCP RUNNING INSTANCE IMAGE**
-<img width="1067" height="656" alt="GCP-running instance" src="https://github.com/user-attachments/assets/b6d263cb-d363-4c2e-a8bc-1194d0f20445" />
+[GCP running](images/gcp_running.png)
+
 
 ## Step 3: SSH Update
 
