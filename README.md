@@ -3,7 +3,7 @@ OCI and GCP tutorial
 # Virtual Machine Tutorial: GCP and OCI
 
 ## Video ##
-[(https://www.loom.com/share/5c0ea785d3834672baa073e21ebb96ce?sid=c006382f-fe4b-4274-93b0-af9cffc8016c)
+**Recording:**[Watch on Loom](https://www.loom.com/share/5c0ea785d3834672baa073e21ebb96ce?sid=000deb8e-0077-4a77-b2b2-bf911590b54e)
 
 ## Prereqs
 -Google Cloud Platform (GCP)
