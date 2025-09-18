@@ -13,9 +13,9 @@ OCI and GCP tutorial
 
 -Smallest free/tier shapes and images
 
-# Google Cloud (GCP)
+# PART 1: Google Cloud (GCP)
 
-# Step 1: Create VM
+## Step 1: Create VM
 -Go to Console → Compute Engine → Create instance
 
 **GCP CREATE IMAGE:**
@@ -39,7 +39,7 @@ OCI and GCP tutorial
 
 ## Step 2: Running Instance
 
-- Once **Create** has been chosen you will wait for status to be **Running**
+Once **Create** has been chosen you will wait for status to be **Running**
 
 **GCP RUNNING INSTANCE IMAGE:**
 [GCP running](images/gcp_running.png)
@@ -60,7 +60,7 @@ OCI and GCP tutorial
 
   **pwd** > **enter**
 
-  ## Stop/Terminate VM
+## STEP 4: Stop/Terminate VM
 
 - Click on the 3 dots> Click drop down
 - Click **Delete**
@@ -70,7 +70,7 @@ OCI and GCP tutorial
 **GCP TERMINATE IMAGE:** 
 [GCP terminate](images/gcp_terminate.png)
 
-**PART 2: Oracle Cloud Infrastructure (OCI)**
+# PART 2: Oracle Cloud Infrastructure (OCI)
 
 ## Step 1: Create a VM
 
