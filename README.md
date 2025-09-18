@@ -60,7 +60,7 @@ OCI and GCP tutorial
 
   ## Stop/Terminate VM
 
-- Click on the 3 dots Click drop down
+- Click on the 3 dots> Click drop down
 - Click **Delete**
 - We do not care about a graceful shutdown, click **Delete**
     -Remember to make sure VM is deleted as this can cost you money if left running
@@ -96,7 +96,7 @@ OCI and GCP tutorial
 
 ## Step 3: Stop/ Terminate VM
 
--Go to the right Click > Actions > Stop
+Go to the right>Click > Actions > Stop
 
 Click> Actions again> Terminate
 
