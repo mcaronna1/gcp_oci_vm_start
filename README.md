@@ -97,7 +97,7 @@ OCI and GCP tutorial
 ## Step 2- Running Instance - wait until it changes from provisoning>running
 
 **Oracle Cloud Running Instance** 
-[OCI Create](images/oracle_running.png)
+[OCI Running](images/oracle_running.png)
 
 ## Step 3: Stop/ Terminate VM
 
@@ -107,7 +107,9 @@ Click> Actions again> Terminate
 
   - Make sure it indicates terminate so your VM isnt running
     
-**Oracle Cloud Terminate** <img width="1351" height="636" alt="Oracle Terminate" src="https://github.com/user-attachments/assets/60ee9fb1-b8ab-4892-9396-1d5cbeba897c" />
+**Oracle Cloud Terminate** 
+[OCI Terminate](images/oracl_terminate.png)
+
 
 # Similarities:
 
